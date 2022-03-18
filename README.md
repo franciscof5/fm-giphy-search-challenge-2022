@@ -12,3 +12,7 @@ Just upload the plugin and active it
 ## How it works
 
 The plugin basically use wp_head hook function to insert a serch input and submit button for querying gifs via php file_get_contents()
+
+## Requirements
+
+* Bootstrap v4
